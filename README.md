@@ -1,11 +1,11 @@
 # Machine-Learning---Claim-Predictions-NOVA-IMS-
 
 Project Developed By:
-Pedro Santos
-Diogo Correia
-Oumaima Hfaieh
-Rita Morgadito
-Duarte Miguel
+- Pedro Santos
+- Diogo Correia
+- Oumaima Hfaieh
+- Rita Morgadito
+- Duarte Miguel
 
 # **Workplace Injury Claim Prediction Project**
 
