@@ -1,5 +1,12 @@
 # Machine-Learning---Claim-Predictions-NOVA-IMS-
 
+Project Developed By:
+Pedro Santos
+Diogo Correia
+Oumaima Hfaieh
+Rita Morgadito
+Duarte Miguel
+
 # **Workplace Injury Claim Prediction Project**
 
 Welcome to the **Workplace Injury Claim Prediction Project**, a machine learning solution developed to assist the **New York Worker’s Compensation Board (WCB)** in managing workplace injury claims. This repository contains all resources and implementations for building predictive models, analyzing outcomes, and providing users with an interface for generating personalized predictions.
@@ -56,3 +63,7 @@ To accomplish this, we processed datasets containing over **550,000 resolved cla
 ---
 
 This project showcases the potential of machine learning in optimizing workplace claim management, offering scalable solutions while maintaining user-friendly accessibility.
+
+## **DATA**
+- Could not upload here since it is too big.
+- In need of the data, contact me.
