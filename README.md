@@ -65,5 +65,5 @@ To accomplish this, we processed datasets containing over **550,000 resolved cla
 This project showcases the potential of machine learning in optimizing workplace claim management, offering scalable solutions while maintaining user-friendly accessibility.
 
 ## **DATA**
-- Could not upload here since it is too big.
-- In need of the data, contact me.
+- Could not upload the datasets since they are too heavy.
+- In need of the data, please dont hesitate to contact any of us.
