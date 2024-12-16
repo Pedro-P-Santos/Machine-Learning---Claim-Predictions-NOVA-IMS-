@@ -58,7 +58,7 @@ To accomplish this, we processed datasets containing over **550,000 resolved cla
 ## **Requirements**
 - Python 3.8+
 - Libraries: `scikit-learn`, `XGBoost`, `CatBoost`, `Flask`, `pandas`, `numpy`, `joblib`
-- Instructions for installation are provided in the `requirements.txt`.
+
 
 ---
 
